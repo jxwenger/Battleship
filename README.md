@@ -1,1 +1,1 @@
-# A text based version of the board game battleship
+# A text based version of the board game battleship (In progress)
